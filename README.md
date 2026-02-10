@@ -1,5 +1,6 @@
 # InfoSecAssists.github.io
 Lending Point - Anthony Suzara
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
